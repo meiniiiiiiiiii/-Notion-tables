@@ -65,7 +65,7 @@ th {
 }
 
 .border-left {
-  border-left: 3px solid #37352f !important;
+  border-left: 3px solid #a3a3a3 !important;
 }
 
 .border-right {
@@ -82,7 +82,7 @@ th {
 }
 
 .double-left {
-  border-left: 3px double #37352f !important;
+  border-left: 3px double #a3a3a3 !important;
 }
 
 .double-right {
