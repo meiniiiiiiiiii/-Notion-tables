@@ -21,10 +21,32 @@ td {
   border: 1px solid #d3d3d3;
   padding: 8px 12px;
   text-align: left;
-  vertical-align: middle;
+  vertical-align: middle; 
+  white-space: nowrap;
+
 }
 
 th {
   background-color: #f1f1ef;
+  font-weight: 600;
+}
+
+.red {
+  background-color: #ffd6d6;
+}
+
+.blue {
+  background-color: #dcecff;
+}
+
+.gray {
+  background-color: #f1f1ef;
+}
+
+.center {
+  text-align: center;
+}
+
+.bold {
   font-weight: 600;
 }
