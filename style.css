@@ -1,0 +1,29 @@
+/* ===== 梅的 SRD 表格共用樣式 ===== */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+               "Noto Sans TC", sans-serif;
+  color: #37352f;
+  background: transparent;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 16px;
+}
+
+th,
+td {
+  border: 1px solid #d3d3d3;
+  padding: 8px 12px;
+  text-align: left;
+  vertical-align: middle;
+}
+
+th {
+  background-color: #f1f1ef;
+  font-weight: 600;
+}
