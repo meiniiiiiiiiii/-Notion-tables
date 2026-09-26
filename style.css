@@ -31,6 +31,8 @@ th {
   font-weight: 600;
 }
 
+  /*=== 顏色小工具===*/
+
 .red {
   background-color: #ffd6d6;
 }
@@ -49,4 +51,40 @@ th {
 
 .bold {
   font-weight: 600;
+}
+
+/* ===== 框線小工具 ===== */
+
+/* 粗線 */
+.border-top {
+  border-top: 3px solid #37352f !important;
+}
+
+.border-bottom {
+  border-bottom: 3px solid #37352f !important;
+}
+
+.border-left {
+  border-left: 3px solid #37352f !important;
+}
+
+.border-right {
+  border-right: 3px solid #37352f !important;
+}
+
+/* 雙線 */
+.double-top {
+  border-top: 3px double #37352f !important;
+}
+
+.double-bottom {
+  border-bottom: 3px double #37352f !important;
+}
+
+.double-left {
+  border-left: 3px double #37352f !important;
+}
+
+.double-right {
+  border-right: 3px double #37352f !important;
 }
